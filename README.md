@@ -12,3 +12,4 @@ What do you want to know?
 - GTA: San Andreas
 - Rhythm Master
 - Command & Conquer: Red Alert 1&2
+- Plants vs Zombies
