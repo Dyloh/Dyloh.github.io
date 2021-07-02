@@ -4,6 +4,7 @@
 
 [Peking University](https://pku.edu.cn)
 
+Email: [xuyang1014@pku.edu.cn](mailto:xuyang1014@pku.edu.cn)
 
 
 ## About Me
