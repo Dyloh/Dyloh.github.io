@@ -6,7 +6,7 @@ This is my personal blog.(Created on 2021/07/02)
 What do you want to know?
 
 ## Game Interest(100h+)
-- The Binding of Isaac: Rebirth
+- [The Binding of Isaac: Rebirth](https://store.steampowered.com/app/113200/The_Binding_of_Isaac/)
 - MahjongSoul
 - Geometry Dash
 - GTA: San Andreas
