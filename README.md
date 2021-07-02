@@ -14,6 +14,7 @@ What do you want to know?
 - [MahjongSoul](https://mahjongsoul.yo-star.com/)
 - [Geometry Dash](https://geometrydash-free.com/)
 - [GTA: San Andreas](https://www.rockstargames.com/games/sanandreas)
+- [Minecraft](https://www.minecraft.net/)
 - [Rhythm Master](https://da.qq.com/index.shtml)
 - [Command & Conquer: Red Alert 1&2](https://www.ea.com/games/command-and-conquer)
 - [Plants vs Zombies](https://www.ea.com/ea-studios/popcap/plants-vs-zombies)
