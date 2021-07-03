@@ -11,7 +11,7 @@ Email: [xuyang1014@pku.edu.cn](mailto:xuyang1014@pku.edu.cn)
 What do you want to know?
 
 ## Game Interest(100h+)
-- [The Binding of Isaac: Rebirth](https://store.steampowered.com/app/113200/The_Binding_of_Isaac/)
+- [The Binding of Isaac: Rebirth](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/)
 - [MahjongSoul](https://mahjongsoul.yo-star.com/)
 - [Geometry Dash](https://geometrydash-free.com/)
 - [GTA: San Andreas](https://www.rockstargames.com/games/sanandreas)
