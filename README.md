@@ -22,3 +22,5 @@ What do you want to know?
 - [Plants vs Zombies](https://www.ea.com/ea-studios/popcap/plants-vs-zombies)
 
 This is my personal blog.(Created on 2021/07/02)
+
+[?](./lyy.html)
