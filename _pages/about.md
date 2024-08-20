@@ -21,4 +21,4 @@ Yuanshi Liu, Hanzhen Zhao, Yang Xu, Pengyun Yue, Cong Fang
 
 [The Implicit Bias of Heterogeneity towards Invariance and Causality](https://arxiv.org/abs/2403.01420)
 
-Yang Xu*, Yihong Gu*, Cong Fang
+Yang Xu\*, Yihong Gu\*, Cong Fang
