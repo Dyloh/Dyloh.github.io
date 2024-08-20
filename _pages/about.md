@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second your graduate student from [School of Mathematical Sciences](https://math.pku.edu.cn), [Peking University](https://pku.edu.cn). I am very fortunate to be advised by Prof. Minghua Deng. My research interest includes high-dimensional statistics and biostatistics.
+I am a second Ph.D. student from [School of Mathematical Sciences](https://math.pku.edu.cn), [Peking University](https://pku.edu.cn). I am very fortunate to be advised by Prof. Minghua Deng. My research interest includes high-dimensional statistics and biostatistics.
 
 Previously, I received a BS in Statistics from Peking University in 2022.
 
